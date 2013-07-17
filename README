@@ -1,0 +1,9 @@
+## Navigator SA-MP ##
+
+Ce tout simple projet a pour but de faire une liste de tous les serveurs de jeu SA-MP étant recensé par le master serveur. 
+
+L'utilisateur pourra donc y retrouver facilement cette liste qu'il pourra trier de plusieurs façons ( Nombre de joueurs, Version du serveur, etc. ).
+
+Ce projet utilise du PHP, une base de donnée MySQL ainsi qu'une tache CRON tournant régulierement. La fonction PHP fsockopen() doit être IMPERATIVEMENT disponible. 
+
+Plus d'information sur la mise en place du projet sera donné par la suite.
